@@ -1,7 +1,6 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
-import time
 
 
 st.set_page_config(page_title="Tarea 1", page_icon=":computer:", layout="wide")
